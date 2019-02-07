@@ -1,4 +1,4 @@
-print ('Prorgam Sederhana Untuk Menentukan Bilangan Terbesar')
+print ('Progam Sederhana Untuk Menentukan Bilangan Terbesar')
 print ('')
 a = int(input('Bilangan 1 :'))
 b = int(input('Bilangan 2 :'))
