@@ -1,5 +1,5 @@
 # Praktikum 1
-# Prorgam Sederhana Untuk Menentukan Bilangan Terbesar
+# Progam Sederhana Untuk Menentukan Bilangan Terbesar
 # 1.Penjelasan
 Program ini digunakan untuk mencari bilangaan terbesar dengan menginputkan 3 buah bilangan.
 
@@ -16,6 +16,6 @@ Pada gambar di atas hasil eksekusi pertama dengan bilangan1 di isi dengan angka 
 Dan hasil eksekusi kedua dengan bilangan1 di isi dengan angka 1, bilangan 2 di isi dengan angka 9, dan bilangan3 di isi dengan angka 5, menampilkan hasil bahwa bilangan kedua adalah yang terbesar dengan angka 9. 
 Sedangkan hasil eksekusi ketiga dengan bilangan1 di isi dengan angka 9, bilangan 2 di isi dengan angka 5, dan bilangan3 di isi dengan angka 1, menampilkan hasil bahwa bilangan pertama adalah yang terbesar dengan angka 9.
 
-Sekian penjelasan dari prorgam sederhana untuk menentukan bilangan terbesar yang saya buat
+Sekian penjelasan dari progam sederhana untuk menentukan bilangan terbesar yang saya buat
 
 Terimakasih..
