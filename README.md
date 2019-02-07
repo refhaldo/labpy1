@@ -16,7 +16,7 @@ Pada gambar di atas hasil eksekusi pertama dengan "Bilangan 1" di isi dengan ang
 Dan hasil eksekusi kedua dengan "Bilangan 1" di isi dengan angka 1, "Bilangan 2" di isi dengan angka 9, dan "Bilangan 3" di isi dengan angka 5, menampilkan hasil bahwa "Bilangan 2" adalah yang terbesar dengan angka 9. 
 Sedangkan hasil eksekusi ketiga dengan "Bilangan 1" di isi dengan angka 9, "Bilangan 2" di isi dengan angka 5, dan "Bilangan 3" di isi dengan angka 1, menampilkan hasil bahwa "Bilangan 1" adalah yang terbesar dengan angka 9.
 # 4. Penutup
-Dapat disimpulkan bahwa program tersebut berjalan dengan semestinya.
+Dari hasil di atas dapat disimpulkan bahwa program tersebut berjalan dengan baik.
 
 Sekian penjelasan dari progam sederhana untuk menentukan bilangan terbesar yang saya buat.
 
