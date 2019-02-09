@@ -20,4 +20,4 @@ Sedangkan hasil eksekusi ketiga dengan "Bilangan 1" di isi dengan angka 9, "Bila
 Dari hasil di atas dapat disimpulkan bahwa program tersebut berjalan dengan baik.
 
 Sekian penjelasan dari progam sederhana untuk menentukan bilangan terbesar yang saya buat.  
-Terimakasih.
+**Terimakasih**
