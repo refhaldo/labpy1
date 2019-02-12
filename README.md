@@ -16,7 +16,7 @@ Pada program ini tipe data yang digunakan adalah *integer*, aktifitas program ya
 # 3.Hasil Eksekusi
 Berikut adalah hasil eksekusi program :
 
-![image](https://github.com/refhaldo/labpy1/blob/master/2.png?raw=true) 
+![image](https://github.com/refhaldo/labpy1/blob/master/6.png?raw=true) 
 
 Pada gambar di atas hasil eksekusi pertama dengan "Bilangan 1" di isi dengan angka 1, "Bilangan 2" di isi dengan angka 5, dan "Bilangan 3" di isi dengan angka 9, menampilkan hasil bahwa "Bilangan 3" adalah yang terbesar dengan angka 9. 
 Dan hasil eksekusi kedua dengan "Bilangan 1" di isi dengan angka 1, "Bilangan 2" di isi dengan angka 9, dan "Bilangan 3" di isi dengan angka 5, menampilkan hasil bahwa "Bilangan 2" adalah yang terbesar dengan angka 9. 
