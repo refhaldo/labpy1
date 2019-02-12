@@ -1,4 +1,4 @@
-# Praktikum 1
+# Praktikum 2
 # Progam Sederhana Untuk Menentukan Bilangan Terbesar
 # 1.Penjelasan
 Program ini digunakan untuk mencari bilangaan terbesar dengan menginputkan 3 buah bilangan. 
@@ -8,6 +8,11 @@ Program ini digunakan untuk mencari bilangaan terbesar dengan menginputkan 3 bua
 Pada program ini tipe data yang digunakan adalah *integer*, aktifitas program yag digunakan adalah *input*, dan algoritma yang digunakan adalah *if, elif, dan else*. 
 
 ![image](https://github.com/refhaldo/labpy1/blob/master/1.png?raw=true)
+**Keterangan :**
+*Input* digunakan untuk menerima baris input dari user dan mengembalikannya dalam bentuk string.
+*If* digunakan untuk menjalankan perintah dalam suatu kondisi.
+*Elif* digunakan ketika kondisi if tidak tercapai.
+*Else* digunakan jika kondisi if tidak dapat di penuhi.
 # 3.Hasil Eksekusi
 Berikut adalah hasil eksekusi program :
 
